@@ -1,0 +1,2 @@
+Esse foi um projeto de estudo, no qual o objetivo foi desenvolver uma calculado utilizando a linguagem Python.
+A versão utilizada foi a 3.8.
