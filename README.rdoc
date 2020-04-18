@@ -1,2 +1,3 @@
 Esse foi um projeto de estudo, no qual o objetivo foi desenvolver uma calculado utilizando a linguagem Python.
+A calculadora pode calcular somas, substrações, divisões, multiplicações e equações do 2º Grau.
 A versão utilizada foi a 3.8.
